@@ -1,0 +1,17 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+	"settings": {
+        "workbench.colorCustomizations": {
+            "activityBar.background": "#133141",
+            "titleBar.activeBackground": "#1B445B",
+            "titleBar.activeForeground": "#F6FAFC"
+        },
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "[typescript]": { "editor.defaultFormatter": "esbenp.prettier-vscode", "editor.formatOnSave": true },
+        "[typescriptreact]": { "editor.defaultFormatter": "esbenp.prettier-vscode", "editor.formatOnSave": true }
+    },
+}

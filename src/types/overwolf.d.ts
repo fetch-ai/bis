@@ -2377,6 +2377,7 @@ declare namespace overwolf.games.launchers.events {
 
   interface SetRequiredFeaturesResult extends Result {
     supportedFeatures: string[];
+    status?: string;
   }
 
   /**

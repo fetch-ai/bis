@@ -1,14 +1,17 @@
 export const tftClassId = 5426;
+export const tftQueueIds = [1090, 1100];
+
+export const lobbyInterestingFeatures = ['lobby_info'];
 
 export const interestingFeatures = [
-  'board',
-  'bench',
-  'carousel',
-  // 'live_client_data',
-  'match_info',
   'me',
-  'roster',
-  'store',
+  'board',
+  'match_info',
+  // 'bench',
+  // 'carousel',
+  // 'live_client_data',
+  // 'roster',
+  // 'store',
 ];
 
 export const windowNames = {
